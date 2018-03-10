@@ -53,6 +53,8 @@ int menu(){
 	printw("2. Escenario del tren");
 	move(4,1);
 	printw("3.salir del juego");
+	move(5,1);
+	printw("solo hay herencia y las clases :(");
 	int cx=0;
 	int cy=0;
 	int tecla;
